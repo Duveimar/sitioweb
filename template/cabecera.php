@@ -18,14 +18,14 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="#">Inicio</a>
+                <a class="nav-link" href="index.php">Inicio</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Libros</a>
+                <a class="nav-link" href="productos.php">Productos</a>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="#">Nosostos</a>
+                <a class="nav-link" href="nosotros.php">Nosostos</a>
             </li>
 
             
@@ -34,4 +34,5 @@
 
 
 <div class="container">
+    <br/>
     <div class="row">
