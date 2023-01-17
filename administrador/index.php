@@ -1,6 +1,7 @@
 <?php
 if($_POST){
-    header('location:inicio.php');  
+
+    header('locatiom:inicio.php');  
 }
 ?>
 <!doctype html>
